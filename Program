@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();                     //to clear the screen
+printf("\nHello World");
+getch();                     //to run directly after compilation
+}
